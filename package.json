@@ -11,8 +11,14 @@
   "author": "NINJAgur",
   "license": "ISC",
   "dependencies": {
+    "argon2": "^0.28.3",
+    "argon2-ffi": "^2.0.0",
+    "body-parser": "^1.19.1",
+    "crypto": "^1.0.1",
     "express": "^4.17.2",
-    "mongoose": "^6.1.8",
+    "mongoose": "^6.1.10",
+    "node-gyp-build": "^4.3.0",
+    "node-pre-gyp": "^0.17.0",
     "save": "^2.4.0"
   }
 }
